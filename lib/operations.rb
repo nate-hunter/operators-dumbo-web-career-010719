@@ -11,6 +11,11 @@ def not_safe?(speed)
 	
 end
 	
+	
+unsafe?(35)
+unsafe?(50)
+unsafe?(78)
+	
 =begin
 ## Instructions
 
